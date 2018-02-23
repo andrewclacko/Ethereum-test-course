@@ -1,0 +1,57 @@
+Blockchain broswer:
+  MetaMAsk plugin or MIST browser.
+MetaMask uses infura
+Mist integrated Geth Node.
+
+Soldity - requires compliation
+  Similar to Javascript.
+
+Remix - IDE in the cloud.
+  Remix.etherium.org
+  complies solidity 
+  integrated Debugger
+
+Web3.js, ETHJS
+  interact with blockchain from browser.
+  send command to node which then sends transations to the blockchain.
+
+Truffle & EMBARK ( if development use these, not Web3js)
+  contract management
+  deployment
+  testing framework
+  pre configured web development packages
+
+Webpack, Browserify and Node
+  Javascript modules - packs them together.
+  Node - package download manager CLI
+
+Metamask plugin
+  Chrome plugin - install it and get ether on test network.
+https://metamask.io
+
+Use the Rinkeby test ethereum network.
+Visit https://www.rinkeby.io
+crypto faucet
+copy address to clipboard (Metamask)
+paste into facebook/twitter/G+ asking for test funds.
+copy the post link into rinkerby asking for 3 test ether.
+Check account in Metamask and view account on etherscan.
+
+ran a simple contract in https://remix.ethereum.org
+This is interacted by Metamask that has its own rtest nodes...
+
+Section 5 up next.....
+
+
+
+
+
+
+
+
+
+   
+
+  
+  
+
